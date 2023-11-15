@@ -5,6 +5,7 @@ C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManag
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.runtimeconfig.json
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.dll
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.xml
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\Humanizer.dll
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
@@ -48,8 +49,7 @@ C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManag
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.csproj.CopyComplete
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.dll
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\refint\ApiBooksManagement.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.xml
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.pdb
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.genruntimeconfig.cache
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ref\ApiBooksManagement.dll
-C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.xml
-C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.xml

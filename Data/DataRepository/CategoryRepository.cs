@@ -9,26 +9,14 @@ using DataRepositoryContract;
 
 namespace DataRepository
 {
-    public class CategoryRepository : ICategoryRepository
+    public class CategoryRepository : GenericRepository<Category>, ICategoryRepository
     {
-        private readonly IBookDBContext _bookDBContext;
-
-        public CategoryRepository(IBookDBContext bookDBContext)
-        {
-            _bookDBContext = bookDBContext;
-        }
-
         /// <summary>
-        /// Cette methode permet de créer une catégorie.
+        /// Initialise une nouvelle instance de <see cref="CategoryRepository"/> 
         /// </summary>
-        /// <param name="category">catégorie ajoutée.</param>
-        /// <returns></returns>
-        public async Task<Category> CreateCategory(Category category) 
+        /// <param name="dBContext"></param>
+        public CategoryRepository(IBookDBContext dBContext) : base(dBContext)
         {
-            var element = await _bookDBContext.Categories.AddAsync(category).ConfigureAwait(false);
-            await _bookDBContext.SaveChangesAsync().ConfigureAwait(false);
-
-            return element.Entity;
         }
     }
 }

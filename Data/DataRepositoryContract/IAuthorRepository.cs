@@ -8,14 +8,7 @@ using DataEntity;
 
 namespace DataRepositoryContract
 {
-    public interface IAuthorRepository
+    public interface IAuthorRepository : IGenericRepository<Author>
     {
-        /// <summary>
-        /// Cette methode permet de créer un auteur.
-        /// </summary>
-        /// <param name="author">Auteur ajouté.</param>
-        /// <returns></returns>
-        Task<Author> CreateAuthor(Author author);
-
     }
 }

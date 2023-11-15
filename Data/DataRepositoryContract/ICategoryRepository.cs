@@ -8,13 +8,7 @@ using DataEntity;
 
 namespace DataRepositoryContract
 {
-    public interface ICategoryRepository
+    public interface ICategoryRepository : IGenericRepository<Category>
     {
-        /// <summary>
-        /// Cette methode permet de créer une catégorie.
-        /// </summary>
-        /// <param name="category">Catégorie ajoutée.</param>
-        /// <returns></returns>
-        Task<Category> CreateCategory(Category category);
     }
 }

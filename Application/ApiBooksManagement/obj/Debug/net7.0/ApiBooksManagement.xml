@@ -4,6 +4,17 @@
         <name>ApiBooksManagement</name>
     </assembly>
     <members>
+        <member name="F:ApiBooksManagement.Controllers.BookController._bookRepository">
+            <summary>
+            The book repository
+            </summary>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.BookController.#ctor(DataRepositoryContract.IBookRepository)">
+            <summary>
+            Initialise une nouvelle instance de <see cref="T:ApiBooksManagement.Controllers.BookController"/>
+            </summary>
+            <param name="bookRepository"></param>
+        </member>
         <member name="T:ApiBooksManagement.Migrations.InitialGestionDeLivres">
             <inheritdoc />
         </member>
