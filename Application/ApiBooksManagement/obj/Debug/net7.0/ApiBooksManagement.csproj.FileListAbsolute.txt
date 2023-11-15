@@ -51,3 +51,5 @@ C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManag
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.pdb
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.genruntimeconfig.cache
 C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ref\ApiBooksManagement.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\bin\Debug\net7.0\ApiBooksManagement.xml
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Application\ApiBooksManagement\obj\Debug\net7.0\ApiBooksManagement.xml
