@@ -9,26 +9,15 @@ using System.Threading.Tasks;
 
 namespace DataRepository
 {
-    public class AuthorRepository : IAuthorRepository
+    public class AuthorRepository : GenericRepository<Author>, IAuthorRepository
     {
-        private readonly IBookDBContext _bookDBContext;
-
-        public AuthorRepository(IBookDBContext bookDBContext)
-        {
-            _bookDBContext = bookDBContext;
-        }
-
         /// <summary>
-        /// Cette methode permet de créer un auteur.
+        /// Initialise une nouvelle instance de <see cref="AuthorRepository"/> 
         /// </summary>
-        /// <param name="author">auteur ajouté.</param>
-        /// <returns></returns>
-        public async Task<Author> CreateAuthor(Author author)
+        /// <param name="dBContext"></param>
+        public AuthorRepository(IBookDBContext dbContext) : base(dbContext)
         {
-            var element = await _bookDBContext.Authors.AddAsync(author).ConfigureAwait(false);
-            await _bookDBContext.SaveChangesAsync().ConfigureAwait(false);
 
-            return element.Entity;
         }
     }
 }
