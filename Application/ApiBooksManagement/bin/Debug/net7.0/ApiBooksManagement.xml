@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiBooksManagement</name>
+    </assembly>
+    <members>
+        <member name="T:ApiBooksManagement.Migrations.InitialGestionDeLivres">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialGestionDeLivres.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialGestionDeLivres.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialGestionDeLivres.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiBooksManagement.Migrations.InitialDatabase">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialDatabase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialDatabase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.InitialDatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
