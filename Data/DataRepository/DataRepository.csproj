@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataContextContract\DataContextContract.csproj" />
+    <ProjectReference Include="..\DataRepositoryContract\DataRepositoryContract.csproj" />
+  </ItemGroup>
+
 </Project>

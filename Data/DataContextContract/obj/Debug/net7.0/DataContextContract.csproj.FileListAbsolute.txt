@@ -1,0 +1,15 @@
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\bin\Debug\net7.0\DataContextContract.deps.json
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\bin\Debug\net7.0\DataContextContract.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\bin\Debug\net7.0\DataContextContract.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\bin\Debug\net7.0\DataEntity.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\bin\Debug\net7.0\DataEntity.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.csproj.AssemblyReference.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.AssemblyInfoInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.AssemblyInfo.cs
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.csproj.CoreCompileInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.csproj.CopyComplete
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\refint\DataContextContract.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\DataContextContract.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Data\DataContextContract\obj\Debug\net7.0\ref\DataContextContract.dll

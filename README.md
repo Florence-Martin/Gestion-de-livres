@@ -16,6 +16,9 @@ Pour exécuter localement l'application, suivez ces étapes :
 - ASP.NET Core
 - React
 - TypeScript
+ 
+## Base de données
+-  MySQL Workbench
 
 N'hésitez pas à contribuer ou à ouvrir des issues pour des améliorations !
 

@@ -264,6 +264,19 @@
           }
         }
       },
+      "DataContextContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DataEntity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataContextContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataContextContract.dll": {}
+        }
+      },
       "DataEntity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -676,6 +689,11 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
+    "DataContextContract/1.0.0": {
+      "type": "project",
+      "path": "../DataContextContract/DataContextContract.csproj",
+      "msbuildProject": "../DataContextContract/DataContextContract.csproj"
+    },
     "DataEntity/1.0.0": {
       "type": "project",
       "path": "../DataEntity/DataEntity.csproj",
@@ -684,6 +702,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DataContextContract >= 1.0.0",
       "DataEntity >= 1.0.0"
     ]
   },
@@ -720,6 +739,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj": {
+              "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj"
+            },
             "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
               "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj"
             }
