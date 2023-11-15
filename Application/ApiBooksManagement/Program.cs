@@ -1,8 +1,10 @@
+using DataContext;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<DBContext>(opt =>
-    opt.UseInMemoryDatabase("BooksManagement"));
+//builder.Services.AddDbContext<DBContext>(opt =>
+//    opt.UseInMemoryDatabase("BooksManagement"));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

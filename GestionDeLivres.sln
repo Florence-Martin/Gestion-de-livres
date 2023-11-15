@@ -11,17 +11,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{B9DFC98D-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{5622F77E-7896-44EB-9871-A94ECAD02D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooksManagement", "Application\ApiBooksManagement\ApiBooksManagement.csproj", "{48FFE4B4-00D6-49ED-8E3D-8805BD6E601B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiBooksManagement", "Application\ApiBooksManagement\ApiBooksManagement.csproj", "{48FFE4B4-00D6-49ED-8E3D-8805BD6E601B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEntity", "Data\DataEntity\DataEntity.csproj", "{3DC3593F-EC1B-4573-970F-C77B1E7AF77E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataEntity", "Data\DataEntity\DataEntity.csproj", "{3DC3593F-EC1B-4573-970F-C77B1E7AF77E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "Data\DataContext\DataContext.csproj", "{4E6A43D9-5C16-4AFB-916D-2CED8DCCDE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContext", "Data\DataContext\DataContext.csproj", "{4E6A43D9-5C16-4AFB-916D-2CED8DCCDE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextContract", "Data\DataContextContract\DataContextContract.csproj", "{36228718-59D0-45DB-9A15-D7404D60D157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContextContract", "Data\DataContextContract\DataContextContract.csproj", "{36228718-59D0-45DB-9A15-D7404D60D157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "Data\DataRepository\DataRepository.csproj", "{78432CDC-AFF8-43F3-AE9D-6B7DA550507D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataRepository", "Data\DataRepository\DataRepository.csproj", "{78432CDC-AFF8-43F3-AE9D-6B7DA550507D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepositoryContract", "Data\DataRepositoryContract\DataRepositoryContract.csproj", "{45FAE497-D925-401F-BDBE-51C3A9428331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataRepositoryContract", "Data\DataRepositoryContract\DataRepositoryContract.csproj", "{45FAE497-D925-401F-BDBE-51C3A9428331}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{F215CC99-6A4A-414B-9233-441EBDAE7695}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
