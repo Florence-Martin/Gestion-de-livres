@@ -1,0 +1,17 @@
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\BusinessMapper.deps.json
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\BusinessMapper.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\BusinessMapper.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\BusinessModel.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\DataEntity.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\DataEntity.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\bin\Debug\net7.0\BusinessModel.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.csproj.AssemblyReference.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.AssemblyInfoInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.AssemblyInfo.cs
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.csproj.CoreCompileInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.csproj.CopyComplete
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\refint\BusinessMapper.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\BusinessMapper.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessMapper\obj\Debug\net7.0\ref\BusinessMapper.dll

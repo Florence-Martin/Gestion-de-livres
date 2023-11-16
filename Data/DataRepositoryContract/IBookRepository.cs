@@ -10,6 +10,6 @@ namespace DataRepositoryContract
 {
     public interface IBookRepository : IGenericRepository<Book>
     {
-      
+       
     }
 }

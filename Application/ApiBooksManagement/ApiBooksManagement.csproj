@@ -17,7 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Business\BusinessMapper\BusinessMapper.csproj" />
+    <ProjectReference Include="..\..\Business\BusinessServiceContract\BusinessServiceContract.csproj" />
+    <ProjectReference Include="..\..\Business\BusinessService\BusinessService.csproj" />
     <ProjectReference Include="..\..\Data\DataContext\DataContext.csproj" />
+    <ProjectReference Include="..\..\Data\DataRepositoryContract\DataRepositoryContract.csproj" />
     <ProjectReference Include="..\..\Data\DataRepository\DataRepository.csproj" />
   </ItemGroup>
 

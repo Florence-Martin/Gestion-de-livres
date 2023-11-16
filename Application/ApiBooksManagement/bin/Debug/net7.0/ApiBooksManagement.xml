@@ -4,16 +4,44 @@
         <name>ApiBooksManagement</name>
     </assembly>
     <members>
-        <member name="F:ApiBooksManagement.Controllers.BookController._bookRepository">
+        <member name="F:ApiBooksManagement.Controllers.BookController._bookService">
             <summary>
-            The book repository
+            The book service
             </summary>
         </member>
-        <member name="M:ApiBooksManagement.Controllers.BookController.#ctor(DataRepositoryContract.IBookRepository)">
+        <member name="M:ApiBooksManagement.Controllers.BookController.#ctor(BusinessServiceContract.IBookService)">
             <summary>
             Initialise une nouvelle instance de <see cref="T:ApiBooksManagement.Controllers.BookController"/>
             </summary>
-            <param name="bookRepository"></param>
+            <param name="bookService"></param>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.BookController.GetAsync">
+            <summary>
+            Récupère la liste des livres
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.BookController.PostAsync(BusinessModel.Books.CreateBookDto)">
+            <summary>
+            Permet de créer un livre
+            </summary>
+            <param name="bookDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.BookController.DeleteAsync(System.Int32,BusinessModel.Books.DeleteBookDto)">
+            <summary>
+            Permet de supprimer un livre
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.BookController.UpdateAsync(System.Int32,BusinessModel.Books.UpdateBookDto)">
+            <summary>
+            Permet de modifier un livre
+            </summary>
+            <param name="id"></param>
+            <param name="bookDto"></param>
+            <returns></returns>
         </member>
         <member name="T:ApiBooksManagement.Migrations.InitialGestionDeLivres">
             <inheritdoc />
@@ -37,6 +65,30 @@
             <inheritdoc />
         </member>
         <member name="M:ApiBooksManagement.Migrations.InitialDatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiBooksManagement.Migrations.GestionDeLivresMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.GestionDeLivresMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.GestionDeLivresMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.GestionDeLivresMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiBooksManagement.Migrations.ChangePriceColumnType">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangePriceColumnType.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangePriceColumnType.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangePriceColumnType.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
     </members>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BusinessServiceContract/1.0.0": {
+        "dependencies": {
+          "BusinessModel": "1.0.0"
+        },
+        "runtime": {
+          "BusinessServiceContract.dll": {}
+        }
+      },
+      "BusinessModel/1.0.0": {
+        "runtime": {
+          "BusinessModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessServiceContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

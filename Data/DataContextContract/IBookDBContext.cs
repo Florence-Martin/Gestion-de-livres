@@ -13,6 +13,7 @@ namespace DataContextContract
         DbSet<Book> Books { get; set; }
         DbSet<Category> Categories { get; set; }
         DbSet<Author> Authors { get; set; }
+        DbSet<BookCategory> BookCategories { get; set; }
 
     }
 }
