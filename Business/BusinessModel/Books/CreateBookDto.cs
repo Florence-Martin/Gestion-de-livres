@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +14,7 @@ namespace BusinessModel.Books
         /// le titre du livre
         /// </summary>
         public string Title { get; set; }
+
         /// <summary>
         /// la description du livre
         /// </summary>
@@ -41,5 +44,10 @@ namespace BusinessModel.Books
         /// le nom de l'auteur
         /// </summary>
         public string AuthorName { get; set; }
+
+        /// <summary>
+        /// le nom de la catégorie
+        /// </summary>
+        public string CategoryName { get; set; }
     }
 }

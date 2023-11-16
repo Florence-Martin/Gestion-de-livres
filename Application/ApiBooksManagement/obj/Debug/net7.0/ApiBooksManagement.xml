@@ -43,6 +43,30 @@
             <param name="bookDto"></param>
             <returns></returns>
         </member>
+        <member name="F:ApiBooksManagement.Controllers.CategoryController._categoryService">
+            <summary>
+            The book service
+            </summary>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.CategoryController.#ctor(BusinessServiceContract.ICategoryService)">
+            <summary>
+            Initialise une nouvelle instance de <see cref="T:ApiBooksManagement.Controllers.CategoryController"/>
+            </summary>
+            <param name="categoryService"></param>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.CategoryController.GetAsync">
+            <summary>
+            Récupère la liste des catégories
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiBooksManagement.Controllers.CategoryController.PostAsync(BusinessModel.Categories.CreateCategoryDto)">
+            <summary>
+            Permet de créer une catégorie
+            </summary>
+            <param name="categoryDto"></param>
+            <returns></returns>
+        </member>
         <member name="T:ApiBooksManagement.Migrations.InitialGestionDeLivres">
             <inheritdoc />
         </member>
@@ -89,6 +113,18 @@
             <inheritdoc />
         </member>
         <member name="M:ApiBooksManagement.Migrations.ChangePriceColumnType.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiBooksManagement.Migrations.ChangeDecimalPrice">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangeDecimalPrice.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangeDecimalPrice.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiBooksManagement.Migrations.ChangeDecimalPrice.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
     </members>

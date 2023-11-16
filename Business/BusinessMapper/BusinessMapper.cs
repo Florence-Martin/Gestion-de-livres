@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using BusinessModel.Author;
 using BusinessModel.Books;
+using BusinessModel.Categories;
 using DataEntity;
 
 namespace BusinessMapper
@@ -25,7 +26,11 @@ namespace BusinessMapper
                 .ReverseMap();
 
             CreateMap<Author, AuthorDto>()
-                .ForMember(dest => dest.BookTitles, opt => opt.MapFrom(src => src.Books.Select(b => b.Title).ToList())); 
+                .ForMember(dest => dest.BookTitles, opt => opt.MapFrom(src => src.Books.Select(b => b.Title).ToList()));
+
+            CreateMap<CreateCategoryDto, Category>()
+                .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
+                .ReverseMap();
         }
 
     }

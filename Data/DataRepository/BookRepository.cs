@@ -10,7 +10,7 @@ namespace DataRepository
         /// <summary>
         /// Initialise une nouvelle instance de <see cref="BookRepository"/> 
         /// </summary>
-        /// <param name="dBContext"></param>
+        /// <param name="dbContext"></param>
         public BookRepository(IBookDBContext dbContext) : base(dbContext)
         {
 

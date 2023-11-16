@@ -14,12 +14,12 @@ namespace DataRepository
         /// <summary>
         /// Le dBContext
         /// </summary>
-        private readonly IBookDBContext _dBContext;
+        protected readonly IBookDBContext _dBContext;
 
         /// <summary>
         /// Table
         /// </summary>
-        private readonly DbSet<Entity> _table;
+        protected readonly DbSet<Entity> _table;
 
         /// <summary>
         /// Initialise une nouvelle instance de <see cref="GenericRepository"/>

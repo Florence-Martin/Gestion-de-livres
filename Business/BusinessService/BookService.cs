@@ -19,6 +19,11 @@ namespace BusinessService
         private readonly IBookRepository _bookRepository;
 
         /// <summary>
+        /// Le Author repository
+        /// </summary>
+        private readonly IAuthorRepository _authorRepository;
+
+        /// <summary>
         /// Le mapper
         /// </summary>
         private readonly IMapper _mapper;
@@ -27,10 +32,12 @@ namespace BusinessService
         /// Initialise une nouvelle instance <see cref="BookService"/>
         /// </summary>
         /// <param name="bookRepository"></param>
+        /// <param name="authorRepository"></param>
         /// <param name="mapper"></param>
-        public BookService(IBookRepository bookRepository, IMapper mapper)
+        public BookService(IBookRepository bookRepository, IAuthorRepository authorRepository, IMapper mapper)
         {
             _bookRepository = bookRepository;
+            _authorRepository = authorRepository;
             _mapper = mapper;
         }
 
@@ -68,13 +75,13 @@ namespace BusinessService
 
             if (existingBook == null)
             {
-                return null; 
+                return null;
             }
 
-            existingBook.Title = bookDto.Title; 
+            existingBook.Title = bookDto.Title;
 
             await _bookRepository.UpdateElementAsync(existingBook).ConfigureAwait(false);
-            return _mapper.Map<ReadBookDto>(existingBook); 
+            return _mapper.Map<ReadBookDto>(existingBook);
         }
 
 
@@ -89,11 +96,11 @@ namespace BusinessService
 
             if (bookToDelete == null)
             {
-                return false; 
+                return false;
             }
 
             await _bookRepository.DeleteElementAsync(bookToDelete).ConfigureAwait(false);
-            return true; 
+            return true;
         }
     }
 }
