@@ -10,6 +10,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{B9DFC98D-B8EE-444D-93B4-B30F107D95D5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{5622F77E-7896-44EB-9871-A94ECAD02D3E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiBooksManagement", "Application\ApiBooksManagement\ApiBooksManagement.csproj", "{48FFE4B4-00D6-49ED-8E3D-8805BD6E601B}"
 EndProject
@@ -28,13 +31,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "�
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessService", "Business\BusinessService\BusinessService.csproj", "{E99DB8A3-19AC-4738-82B0-F2E86AA3575F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessService", "Business\BusinessService\BusinessService.csproj", "{E99DB8A3-19AC-4738-82B0-F2E86AA3575F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessServiceContract", "Business\BusinessServiceContract\BusinessServiceContract.csproj", "{7E5D0808-B84D-4C04-9E66-513FE9C0FAF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessServiceContract", "Business\BusinessServiceContract\BusinessServiceContract.csproj", "{7E5D0808-B84D-4C04-9E66-513FE9C0FAF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessModel", "Business\BusinessModel\BusinessModel.csproj", "{F27F1574-744A-4565-A21B-CA986B8C123E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessModel", "Business\BusinessModel\BusinessModel.csproj", "{F27F1574-744A-4565-A21B-CA986B8C123E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessMapper", "Business\BusinessMapper\BusinessMapper.csproj", "{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessMapper", "Business\BusinessMapper\BusinessMapper.csproj", "{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{98687E9D-CA8A-4B7E-9482-7AA4AE9472CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksFront", "BooksFront\BooksFront.csproj", "{8595C57D-7078-4C9F-9175-6180F6E32ABC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,6 +89,10 @@ Global
 		{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8595C57D-7078-4C9F-9175-6180F6E32ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8595C57D-7078-4C9F-9175-6180F6E32ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8595C57D-7078-4C9F-9175-6180F6E32ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8595C57D-7078-4C9F-9175-6180F6E32ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +111,7 @@ Global
 		{7E5D0808-B84D-4C04-9E66-513FE9C0FAF3} = {5622F77E-7896-44EB-9871-A94ECAD02D3E}
 		{F27F1574-744A-4565-A21B-CA986B8C123E} = {5622F77E-7896-44EB-9871-A94ECAD02D3E}
 		{BC092A38-9FBC-41F9-B599-CFB42D7BD6D8} = {5622F77E-7896-44EB-9871-A94ECAD02D3E}
+		{8595C57D-7078-4C9F-9175-6180F6E32ABC} = {98687E9D-CA8A-4B7E-9482-7AA4AE9472CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B002BF12-F6FD-432C-A583-B0ACEBACFC38}
