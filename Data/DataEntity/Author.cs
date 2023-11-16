@@ -18,13 +18,8 @@ namespace DataEntity
         public string? Nationality { get; set; }
 
         /// <summary>
-        /// Relation one to many avec Book
+        /// Relation one-to-many avec Book
         /// </summary>
         public List<Book> Books { get; set; }
-
-        public Author()
-        {
-            Books = new List<Book>();
-        }
     }
 }

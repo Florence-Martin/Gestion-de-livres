@@ -1,3 +1,5 @@
+using BusinessService;
+using BusinessServiceContract;
 using DataContext;
 using DataContextContract;
 using DataRepository;
@@ -25,13 +27,22 @@ builder.Services.AddDbContext<IBookDBContext, BookDBContext>
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IBookCategoryRepository, BookCategoryRepository>();
 
 // Injection des dépendances
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
+builder.Services.AddScoped<IBookCategoryRepository, BookCategoryRepository>();
+
+builder.Services.AddScoped<IBookService, BookService>();
+
 
 builder.Services.AddControllers();
+
+// AutoMapper
+builder.Services.AddAutoMapper(Assembly.Load("BusinessMapper"));
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

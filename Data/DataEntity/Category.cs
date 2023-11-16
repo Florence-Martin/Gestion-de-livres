@@ -13,16 +13,12 @@ namespace DataEntity
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int CategoryId { get; set; }
+
         public string? Name { get; set; }
 
         /// <summary>
-        /// Navigation property pour la relation Many-to-Many
+        /// Relation many-to-many 
         /// </summary>
-        public virtual ICollection<Book> Books { get; set; }
-
-        public Category()
-        {
-            Books = new List<Book>();
-        }
+        public virtual ICollection<BookCategory> BookCategories { get; set; }
     }
 }

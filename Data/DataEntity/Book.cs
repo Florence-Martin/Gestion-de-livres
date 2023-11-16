@@ -15,25 +15,21 @@ namespace DataEntity
         public int BookId { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }
-        public string? Price { get; set; }
+        public decimal? Price { get; set; }
         public int Quantity { get; set; }
         public byte BookCover { get; set; }
 
         /// <summary>
-        /// Navigation property pour la relation one to many avec Author
+        /// Foreign key for one-to-many 
         /// </summary>
         public int AuthorId { get; set; }
+
         public Author Author { get; set; }
 
+
         /// <summary>
-        /// Navigation property pour la relation Many-to-Many
+        /// Relation many-to-many 
         /// </summary>
-        public virtual ICollection<Category> Categories { get; set; }
-
-        public Book()
-        {
-            Categories = new List<Category>();
-        }
-
+        public ICollection<BookCategory> BookCategories { get; set; }
     }
 }

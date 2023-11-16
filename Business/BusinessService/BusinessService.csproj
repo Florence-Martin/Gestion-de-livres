@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\DataRepositoryContract\DataRepositoryContract.csproj" />
+    <ProjectReference Include="..\BusinessMapper\BusinessMapper.csproj" />
+    <ProjectReference Include="..\BusinessServiceContract\BusinessServiceContract.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\bin\Debug\net7.0\BusinessModel.deps.json
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\bin\Debug\net7.0\BusinessModel.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\bin\Debug\net7.0\BusinessModel.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.AssemblyInfoInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.AssemblyInfo.cs
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\refint\BusinessModel.dll
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\BusinessModel.pdb
+C:\Users\ingeli\Documents\SIMPLON\REPO\GestionDeLivres\Business\BusinessModel\obj\Debug\net7.0\ref\BusinessModel.dll
