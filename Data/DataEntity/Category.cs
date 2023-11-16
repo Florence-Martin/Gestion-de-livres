@@ -10,10 +10,14 @@ namespace DataEntity
 {
     public class Category
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        /// <summary>
+        /// Identifiant de la catégorie
+        /// </summary>
         public int CategoryId { get; set; }
 
+        /// <summary>
+        /// Nom de la catégorie
+        /// </summary>
         public string? Name { get; set; }
 
         /// <summary>

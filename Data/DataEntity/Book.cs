@@ -15,9 +15,13 @@ namespace DataEntity
         public int BookId { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }
+
+        [Column(TypeName = "decimal(18,2)")]
         public decimal? Price { get; set; }
         public int Quantity { get; set; }
         public byte BookCover { get; set; }
+        public string AuthorName { get; set; }
+        public string CategoryName { get; set; }
 
         /// <summary>
         /// Foreign key for one-to-many 
