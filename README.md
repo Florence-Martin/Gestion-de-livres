@@ -45,7 +45,7 @@ Pour exécuter localement l'application, suivez ces étapes :
 
 ## Bibliothèque
 - Tailwind en mode responsive
-- React Father pour les icones
+- React Father & FontAwesome pour les icones
 
 
 N'hésitez pas à contribuer ou à ouvrir des issues pour des améliorations !
