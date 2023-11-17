@@ -9,7 +9,8 @@ Cette application devrait permettre à l'utilisateur de créer, lire, mettre à 
 1. Use Case : photo sur le rendu Simplonline
 2. Diagramme de classes : photo sur le rendu Simplonline
 3. Maquette de l'application : lien sur le rendu Simplonline
-4. Logique Métier : 
+4. script SQL généré de MySQL Workbench : disponible sur Simplonline
+5. Logique Métier : 
 - Gestion des Livres : Permettre aux salariés d'effectuer des opérations CRUD sur les livres : créer, lire, mettre à jour et supprimer des livres. Suivre les détails des livres tels que titre, auteur, résumé, catégorie, disponibilité, prix, etc.
 - Gestion des Catégories : Administrer les différentes catégories de livres : ajout, visualisation. Organiser les livres en différentes catégories pour une meilleure classification.
 - Recherche et Filtrage : Recherche de livres par titre.
