@@ -1,45 +1,52 @@
 # # GestionDeLivres  -  Brief rendu le 18/11/2023
 
-CrÈez une application de gestion de produits et de catÈgorie díun produit de votre choix.
-En fonction de votre choix, vous pouvez dÈfinir les informations que vous voulez stocker pour un produit et une catÈgorie par exemple le nom, le prix, la quantitÈ disponible du produit, etc.
-Cette application devrait permettre ‡ l'utilisateur de crÈer, lire, mettre ‡ jour et supprimer des produits avec des images sachant quíun produit peut appartenir ‡ plusieurs catÈgories.
+Cr√©ez une application de gestion de produits et de cat√©gorie d‚Äôun produit de votre choix.
+En fonction de votre choix, vous pouvez d√©finir les informations que vous voulez stocker pour un produit et une cat√©gorie par exemple le nom, le prix, la quantit√© disponible du produit, etc.
+Cette application devrait permettre √† l'utilisateur de cr√©er, lire, mettre √† jour et supprimer des produits avec des images sachant qu‚Äôun produit peut appartenir √† plusieurs cat√©gories.
 
 ## Conception et Architecture
 
-1. Use Case :
-2. Diagrammes de classes : 
-3. Logique MÈtier : 
-Gestion des Livres : Permettre aux salariÈs d'effectuer des opÈrations CRUD sur les livres : crÈer, lire, mettre ‡ jour et supprimer des livres. Suivre les dÈtails des livres tels que titre, auteur, rÈsumÈ, catÈgorie, disponibilitÈ, prix, etc.
-Gestion des CatÈgories : Administrer les diffÈrentes catÈgories de livres : ajout, visualisation. Organiser les livres en diffÈrentes catÈgories pour une meilleure classification.
-Recherche et Filtrage : Recherche de livres par titre.
+1. Use Case : photo sur le rendu Simplonline
+2. Diagrammes de classes : photo sur le rendu Simplonline
+3. Maquette de l'application : lien sur le rendu Simplonline
+4. Logique M√©tier : 
+- Gestion des Livres : Permettre aux salari√©s d'effectuer des op√©rations CRUD sur les livres : cr√©er, lire, mettre √† jour et supprimer des livres. Suivre les d√©tails des livres tels que titre, auteur, r√©sum√©, cat√©gorie, disponibilit√©, prix, etc.
+- Gestion des Cat√©gories : Administrer les diff√©rentes cat√©gories de livres : ajout, visualisation. Organiser les livres en diff√©rentes cat√©gories pour une meilleure classification.
+- Recherche et Filtrage : Recherche de livres par titre.
 
+## D√©p√¥t
 
-## DÈpÙt
-
-Ce dÈpÙt contient le code source de la partie Backend.
-- **Backend** : Projet ASP.NET Core gÈrant la logique backend avec l'approche Code First.
-Un dÈpÙt contenant le code source de la partie Frontend se trouve : https://github.com/Florence-Martin/booksfront
+Ce d√©p√¥t contient le code source de la partie Backend.
+- **Backend** : Projet ASP.NET Core g√©rant la logique backend avec l'approche Code First.
 - **booksfrontend** : Projet React/TypeScript pour l'interface utilisateur
+- Le d√©p√¥t contenant le code source de la partie Frontend se trouve => https://github.com/Florence-Martin/booksfront
 
 ## Installation
 
-Pour exÈcuter localement l'application, suivez ces Ètapes :
-1. Clonez ce dÈpÙt.
-2. Installez les dÈpendances pour le frontend et le backend.
+Pour ex√©cuter localement l'application, suivez ces √©tapes :
+1. Clonez ce d√©p√¥t.
+2. Installez les d√©pendances pour le frontend et le backend.
 3. Lancez l'application.
 
-## Technologies utilisÈes
+## Editeur de graphiques
+- Figma : outil de design avec prototypage (lien sur le rendu Simplonline)
+
+## Environnement de d√©veloppement
+- Visual Studio
+- Visual Studio Code
+  
+## Technologies utilis√©es
 
 - ASP.NET Core
 - React.js / TypeScript
  
-## Base de donnÈes
+## Base de donn√©es
 -  MySQL Workbench
 
-## BibliothËque
+## Biblioth√®que
 - Tailwind en mode responsive
-- React Father
+- React Father pour les icones
 
 
-N'hÈsitez pas ‡ contribuer ou ‡ ouvrir des issues pour des amÈliorations !
+N'h√©sitez pas √† contribuer ou √† ouvrir des issues pour des am√©liorations !
 
