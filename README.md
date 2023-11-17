@@ -9,17 +9,17 @@ Cette application devrait permettre à l'utilisateur de créer, lire, mettre à jou
 1. Use Case :
 2. Diagrammes de classes : 
 3. Logique Métier : 
-Gestion des Livres : Permettre aux salariés d'effectuer des opérations CRUD sur les livres : créer, lire, mettre à jour et supprimer des livres. Suivre les détails des livres tels que titre, auteur, résumé, catégorie, disponibilité, prix, etc.
-Gestion des Catégories : Administrer les différentes catégories de livres : ajout, visualisation. Organiser les livres en différentes catégories pour une meilleure classification.
-Recherche et Filtrage : Recherche de livres par titre.
+- Gestion des Livres : Permettre aux salariés d'effectuer des opérations CRUD sur les livres : créer, lire, mettre à jour et supprimer des livres. Suivre les détails des livres tels que titre, auteur, résumé, catégorie, disponibilité, prix, etc.
+- Gestion des Catégories : Administrer les différentes catégories de livres : ajout, visualisation. Organiser les livres en différentes catégories pour une meilleure classification.
+- Recherche et Filtrage : Recherche de livres par titre.
 
 
 ## Dépôt
 
 Ce dépôt contient le code source de la partie Backend.
 - **Backend** : Projet ASP.NET Core gérant la logique backend avec l'approche Code First.
-Un dépôt contenant le code source de la partie Frontend se trouve : https://github.com/Florence-Martin/booksfront
 - **booksfrontend** : Projet React/TypeScript pour l'interface utilisateur
+- Le dépôt contenant le code source de la partie Frontend se trouve : https://github.com/Florence-Martin/booksfront
 
 ## Installation
 
@@ -38,7 +38,7 @@ Pour exécuter localement l'application, suivez ces étapes :
 
 ## Bibliothèque
 - Tailwind en mode responsive
-- React Father
+- React Father pour les icones
 
 
 N'hésitez pas à contribuer ou à ouvrir des issues pour des améliorations !
