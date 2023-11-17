@@ -37,7 +37,7 @@ Pour exécuter localement l'application, suivez ces étapes :
   
 ## Technologies utilisées
 
-- ASP.NET Core
+- C#
 - React.js / TypeScript
  
 ## Base de données
