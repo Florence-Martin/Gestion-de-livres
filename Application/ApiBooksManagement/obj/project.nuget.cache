@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWU0k+dfyr8Au6a6BCgAhVy8q0GeMDSCqvMzxAdGkdFSUJLSLYWHB9ZQaedlxeKQjQ8C8Cc7j8MUgtXjJZ/4Xw==",
+  "dgSpecHash": "PQ9mk1C9H6Pb5kkj383Sekc1v4M1QDjT8uTYKlGWH+wukHAljPadRwi8a3NtzXDLKttZFA6pRJzVK767tdA38Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
+  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ingeli\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ingeli\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

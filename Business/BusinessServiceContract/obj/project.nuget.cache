@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5rpO6Cc0l7Ex49cZjr8ySdJYKcgm6kovEvxLMUqOL+1XglizqVlaq5Di+0/pKU600+RBvF4+ng9bZSLUPqpZQ==",
+  "dgSpecHash": "fnERms71gjsW8kgOZRUhqw+8Nk/Bg4mgq2ilU0mrw0+sGX3d5INFWgSNW5KzvOnwJKIvwDsjvoxq5KyPi1d35w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
+  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

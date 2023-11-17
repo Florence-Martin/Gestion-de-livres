@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj": {}
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
         "projectName": "ApiBooksManagement",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\ApiBooksManagement.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Application\\ApiBooksManagement\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Application\\ApiBooksManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,23 +33,23 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\BusinessService.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\BusinessService.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\BusinessService.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\BusinessService.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\DataContext.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\DataContext.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\DataContext.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\DataContext.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj",
         "projectName": "BusinessMapper",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -131,11 +131,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj",
         "projectName": "BusinessModel",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
         "projectName": "BusinessServiceContract",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -268,8 +268,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessModel\\BusinessModel.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessModel\\BusinessModel.csproj"
               }
             }
           }
@@ -303,14 +303,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\BusinessService.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\BusinessService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\BusinessService.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\BusinessService.csproj",
         "projectName": "BusinessService",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\BusinessService.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\BusinessService.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessService\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -332,14 +332,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessServiceContract\\BusinessServiceContract.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
               }
             }
           }
@@ -373,14 +373,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj",
         "projectName": "DataContextContract",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -402,8 +402,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj"
               }
             }
           }
@@ -437,14 +437,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\DataContext.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\DataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\DataContext.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\DataContext.csproj",
         "projectName": "DataContext",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\DataContext.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\DataContext.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContext\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,11 +466,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj"
               }
             }
           }
@@ -504,14 +504,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj",
         "projectName": "DataEntity",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -580,14 +580,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj",
         "projectName": "DataRepositoryContract",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -609,8 +609,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataEntity\\DataEntity.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataEntity\\DataEntity.csproj"
               }
             }
           }
@@ -644,14 +644,14 @@
         }
       }
     },
-    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj": {
+    "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj",
+        "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj",
         "projectName": "DataRepository",
-        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj",
+        "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj",
         "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\obj\\",
+        "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -673,11 +673,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj"
               },
-              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
-                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
+              "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
+                "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
               }
             }
           }

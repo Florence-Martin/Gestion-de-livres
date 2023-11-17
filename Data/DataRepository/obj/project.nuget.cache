@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l49341BHvnM7QrZHGZnnGqYIFtXUqhCvq74GkWHIJoCckpNmeSGfjEK/haKMkwsKZEa7/QRj8WsWvKGKYZXv+w==",
+  "dgSpecHash": "8XzV1gm8CDYQqocFlBV8BkhGqWTNEJUaxJQgCuad/rcwoL7Jso9qVGebWf8MJRyeU7q87OnpsvZWhMTlg6c9Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj",
+  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ingeli\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\ingeli\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pRXPoTdwAprTm5N7ZrQahCUVULVetwe2aCHp6QY5GiyjezMQTkBjA9TM9QHgBPf14VKYAIFDdtKqcDZB2clxA==",
+  "dgSpecHash": "di3tMiRFGvbrKSaRAKFJHUodNsauB4+PqKBo9lxyDoINLOgoEJ7TmtG/CPS07946rpa+f0hKfUuMMV7DXC4T/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Business\\BusinessMapper\\BusinessMapper.csproj",
+  "projectFilePath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Business\\BusinessMapper\\BusinessMapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ingeli\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ingeli\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

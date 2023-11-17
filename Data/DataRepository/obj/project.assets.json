@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj",
+      "projectUniqueName": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj",
       "projectName": "DataRepository",
-      "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\DataRepository.csproj",
+      "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\DataRepository.csproj",
       "packagesPath": "C:\\Users\\ingeli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepository\\obj\\",
+      "outputPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -757,11 +757,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj": {
-              "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataContextContract\\DataContextContract.csproj"
+            "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj": {
+              "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataContextContract\\DataContextContract.csproj"
             },
-            "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
-              "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\GestionDeLivres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
+            "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj": {
+              "projectPath": "C:\\Users\\ingeli\\Documents\\SIMPLON\\REPO\\Livres\\Backend\\Gestion-de-livres\\Data\\DataRepositoryContract\\DataRepositoryContract.csproj"
             }
           }
         }
